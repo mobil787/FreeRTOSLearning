@@ -52,7 +52,7 @@ https://blog.csdn.net/qq_16933601
 https://blog.csdn.net/qq_16933601/article/details/106244510
 
 ---
-**嵌入式与Linux那些事**
+**嵌入式与Linux那些事(专栏)**
  - Linux块设备驱动详解  
    https://blog.csdn.net/qq_16933601/article/details/103553403  
    
@@ -65,3 +65,7 @@ https://blog.csdn.net/qq_16933601/article/details/106244510
  - 嵌入式软件开发笔试面试知识点总结-ARM部分  
    https://blog.csdn.net/qq_16933601/article/details/112688634  
 
+---
+**技术面问题汇总（Linux C/C++软件工程师）(专栏)**
+ - Linux系统软件工程师/嵌入式Linux应用开发工程师 知识体系构建 500篇（持续更新）  
+   https://hongjh.blog.csdn.net/article/details/108051988
