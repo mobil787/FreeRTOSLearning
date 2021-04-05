@@ -52,7 +52,7 @@ https://blog.csdn.net/qq_16933601
 https://blog.csdn.net/qq_16933601/article/details/106244510
 
 ---
-**嵌入式与Linux那些事(专栏)**
+**嵌入式与Linux那些事(专栏) 奇妙之二进制**
  - Linux块设备驱动详解  
    https://blog.csdn.net/qq_16933601/article/details/103553403  
    
