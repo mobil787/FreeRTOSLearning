@@ -13,6 +13,19 @@ FreeRTOS Study
 + 分时，任务优先级
 + 操作系统有丰富的组件(信号量⋯⋯)
 
+---
+**关于任务：** 
+1. 多任务特性 
+2. 多任务实现，配置（任务控制块，就是描述任务属性的结构体） 
+3. 任务堆栈 
+
+创建任务：
+1. 功能需求
+2. 任务创建API ( xTaskCreate(), xTaskCreateStatic() )
+   任务句柄：就是一个指针，指向任务控制块
+3. 功能实现
+
+---
 
 https://github.com/GreyYu6458/FreeRTOS_study
 https://github.com/crazyskady/FreeRTOS_study
