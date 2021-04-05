@@ -41,3 +41,27 @@ https://www.zhihu.com/question/291405354
 https://www.zhihu.com/question/28724426  
 https://www.zhihu.com/question/395354084  
 https://www.zhihu.com/question/342441430  
+
+---
+linux应用程序开发  
+linxu系统编程开发	  
+使用linux—〉linxu系统编程开发—〉驱动开发和分析linux内核  
+  
+https://blog.csdn.net/qq_16933601  
+超详细分析Bootloader（Uboot）到内核的启动流程（万字长文！）  
+https://blog.csdn.net/qq_16933601/article/details/106244510
+
+---
+**嵌入式与Linux那些事**
+ - Linux块设备驱动详解  
+   https://blog.csdn.net/qq_16933601/article/details/103553403  
+   
+ - 嵌入式软件开发笔试面试知识点总结-操作系统部分  
+   https://blog.csdn.net/qq_16933601/article/details/112689117  
+   
+ - 嵌入式软件开发笔试面试知识点总结-Linux部分  
+   https://blog.csdn.net/qq_16933601/article/details/112688721  
+   
+ - 嵌入式软件开发笔试面试知识点总结-ARM部分  
+   https://blog.csdn.net/qq_16933601/article/details/112688634  
+
