@@ -69,3 +69,7 @@ https://blog.csdn.net/qq_16933601/article/details/106244510
 **技术面问题汇总（Linux C/C++软件工程师） 奇妙之二进制(专栏)**
  - Linux系统软件工程师/嵌入式Linux应用开发工程师 知识体系构建 500篇（持续更新）  
    https://hongjh.blog.csdn.net/article/details/108051988
+
+---
+Typora的安装和语法
+https://zhuanlan.zhihu.com/p/90561228
