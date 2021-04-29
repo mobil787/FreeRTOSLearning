@@ -77,6 +77,10 @@ https://zhuanlan.zhihu.com/p/90561228
 ---
 
 MicroPython
+https://zhuanlan.zhihu.com/p/31934491
+不过我们目前在设计一种新方案，我们目前称为uPython，语法规则和库都会做得和原生的python一样
+设计思路上和MicroPython不一样，为了适配更小ROM和RAM的单片机，我们会把python代码先编译成uPythonObj的伪机器代码，板子上只要解析一下这个伪机器代码就行，所有的语法解析工作都在PC机上完成，在单片机上的执行效率会高很多，对内存的需求也会小得多。
+另外会有计划做开发板的模拟器，这样就可以在脱离板子的基础上也能跑python代码
 
 https://github.com/Skiars/berry
 
@@ -89,4 +93,8 @@ https://www.zhihu.com/question/31656477/answer/1350602690
 https://www.zhihu.com/question/347537041/answer/839006064
 https://www.zhihu.com/question/325210206/answer/689285823
 https://www.zhihu.com/question/22220383/answer/541019918
-https://www.cnblogs.com/CodeWorkerLiMing/p/11073540.html
+https://www.cnblogs.com/CodeWorkerLiMing/p/11073540.html  
+
+
+
+
