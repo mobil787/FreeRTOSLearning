@@ -73,3 +73,20 @@ https://blog.csdn.net/qq_16933601/article/details/106244510
 ---
 Typora的安装和语法
 https://zhuanlan.zhihu.com/p/90561228
+
+---
+
+MicroPython
+
+https://github.com/Skiars/berry
+
+C++ 编写一个解释器
+https://blog.csdn.net/q1007729991/article/details/103189736
+
+
+想自己编写一个解释器，有什么好的建议或者相对简单的解释器代码可供参考?
+https://www.zhihu.com/question/31656477/answer/1350602690
+https://www.zhihu.com/question/347537041/answer/839006064
+https://www.zhihu.com/question/325210206/answer/689285823
+https://www.zhihu.com/question/22220383/answer/541019918
+https://www.cnblogs.com/CodeWorkerLiMing/p/11073540.html
